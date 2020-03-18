@@ -1,2 +1,6 @@
 user:
   role: Developer
+
+database:
+  url: localhost
+  user: test
